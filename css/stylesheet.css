@@ -1,9 +1,16 @@
 
 body{
     margin-top: 20px;
-  
 }
-
-
+.arrange{
+    display: flex;
+    justify-content: space-around;
+}
+.look{
+    background-color: rgb(250, 249, 249);
+}
+.small-txt{
+    margin-top: -20px;
+}
 
 
