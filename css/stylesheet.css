@@ -12,5 +12,15 @@ body{
 .small-txt{
     margin-top: -20px;
 }
+.nav-pills> a.active {
+    background-color: gray!important;
+}
+.nav-pills>a{
+    text-decoration: none;
+    color: black;
+} 
+.style{
+    color: blue;
+}
 
 
